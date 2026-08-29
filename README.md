@@ -163,3 +163,7 @@ Built for one production system and shaped by its needs. It is not a general
 purpose library, there is no packaging, and the log messages are in Russian.
 Published because the acceleration findings took a long time to arrive at and
 may save someone else the same search.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
